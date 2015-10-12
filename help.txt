@@ -1,0 +1,10 @@
+###
+
+show course (-id [course_id])/(-name [course_name]) (-new)
+
+show notice/assignment/file -all/(-id [id])/(-name [name])/(-course (-id [id])/(-name [name])) (-new)
+
+show assignment with file
+
+download file/assignment all/(-id [id])/(-name [name]) (-new)
+
