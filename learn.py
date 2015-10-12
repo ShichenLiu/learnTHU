@@ -34,8 +34,8 @@ from progressbar import AnimatedMarker, Bar, BouncingBar, Counter, ETA, \
 
 # demo
 USER_INFO = {
-    "userid" : "liusc14",
-    "userpass" : "liushichen14",
+    "userid" : "",
+    "userpass" : "",
 }
 FILE_PATH = "/Users/lustralisk/desktop/test"
 DATABASE_PATH = "/Users/lustralisk/desktop/test"
